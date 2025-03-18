@@ -18,4 +18,4 @@ spec:
   - key: "hardware"
     operator: "Equal"
     value: "gpu"
-    effect: "NOExecute"
+    effect: "NoExecute"
